@@ -13,7 +13,7 @@ ENV MYSQL_DATABASE blogs
 ENV MYSQL_USER srini
 ENV MYSQL_PASSWORD srinivas
 
-
+# New changes
 
 # Add a database to mysql - blogs database should be crated when the container created.
 ENV MYSQL_DATABASE blogs
