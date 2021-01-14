@@ -14,6 +14,7 @@ ENV MYSQL_USER srini
 ENV MYSQL_PASSWORD srinivas
 
 # New changes
+# Third commit for github
 
 # Add a database to mysql - blogs database should be crated when the container created.
 ENV MYSQL_DATABASE blogs
